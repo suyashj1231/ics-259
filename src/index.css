@@ -1,0 +1,24 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  font-family: Comic Sans MS, cursive, sans-serif;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osxofont-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url(./assets/background_login.jpg) no-repeat;
+  background-size:cover ;
+  background-position: center;
+
+}
+
